@@ -1,7 +1,5 @@
 # %%
-import numpy as np
-
-
+import numpy as np 
 # %%
 class Agent:
     def __init__(self, a0, b0, q):
